@@ -53,33 +53,17 @@ export class LoginFormComponent implements OnInit {
     
     var dataFetch = fetch(
      "/assets/data.json"
-      // "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/data/plotting-multiple-series-on-time-axis-data.json"
-    // "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/data/dashed-reference-line-data.json"
-     // "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/data/line-chart-with-time-axis-data.json"
+     
     ).then(jsonify);
     var schemaFetch = fetch(
       "/assets/assets/schema.json"
-    //  "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/schema/dashed-reference-line-schema.json"
-     // "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/schema/line-chart-with-time-axis-schema.json"
+   
     ).then(jsonify);
 
     Promise.all([dataFetch, schemaFetch]).then(res => {
      
-      const [data, schema] = res;
-         
-    //  var string1 = JSON.stringify(data.data);
-    //    var obj1 = JSON.parse(string1);
-    //          var resultData = [];              
-    //         for(var i in obj1)
-    //              resultData.push(obj1[i]);
-    //    console.log(resultData, "resultData")
-
-      //  var string2 = JSON.stringify(schema.schema.fields)      
-      //  var obj2 = JSON.parse(string2);      
-      //  var resultSchema = [];
-      //  for(var j in obj2)
-      //    resultSchema.push(obj2[j]);
-      //    console.log(resultSchema, "resultSchema")
+      const [data, schema] = res;       
+    
 
          function jsonArrayTo2D(data1:any, data2:any){
           let header:any[] = [];
@@ -92,8 +76,7 @@ export class LoginFormComponent implements OnInit {
             header.forEach((col, i) => thisRow[i] = obj[col] || '')
             AoA.push(thisRow);            
           })
-            // var string2 = JSON.stringify(schema.schema.fields)                
-            // var obj2 = JSON.parse(string2);      
+           
              var resultSchema:any = [];
              var obj2 = schema;
              for(var j in obj2)
@@ -102,10 +85,7 @@ export class LoginFormComponent implements OnInit {
               let schemaArrayNew:any[] = [];  
              resultSchema.forEach((obj:any)=> {       
              Object.keys(obj).forEach((key) => schemaArrayNew.includes(key) || schemaArrayNew.push(obj[key]))
-            // let thisCol = new Array(schemaArrayNew.length);            
-           // console.log(thisCol)
-            
-           // schemaArrayNew.forEach((col, i) => thisCol[i] = obj[col] || '')            
+                     
             AoS.push(schemaArrayNew)
           })          
              
@@ -114,10 +94,7 @@ export class LoginFormComponent implements OnInit {
         }
 
         var dataArray = jsonArrayTo2D(data.data, schema).AoA;
-     //   var schemaArray = jsonArrayTo2D(data.data, schema.schema.fields).AoS;  
-        console.log(dataArray, "AoA"); 
-    //    console.log(schemaArray, "AoS") 
-       
+     
       // First we are creating a DataStore
       const fusionDataStore = new FusionCharts.DataStore();
       // After that we are creating a DataTable by passing our data and schema as arguments
