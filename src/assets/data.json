@@ -1,0 +1,3008 @@
+{
+    "data": [
+        {
+          "date": "1990-01-01",
+          "original": 230.5559506288,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-02-01",
+          "original": 223.9450273132,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-03-01",
+          "original": 236.3405085298,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-04-01",
+          "original": 220.6395656555,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-05-01",
+          "original": 232.2086814576,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-06-01",
+          "original": 224.7713927277,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-07-01",
+          "original": 230.5559506288,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-08-01",
+          "original": 240.472335602,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-09-01",
+          "original": 234.687777701,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-10-01",
+          "original": 239.6459701876,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-11-01",
+          "original": 274.3533175941,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1990-12-01",
+          "original": 285.9224333962,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-01-01",
+          "original": 288.4015296396,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-02-01",
+          "original": 279.3115100807,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-03-01",
+          "original": 287.5751642251,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-04-01",
+          "original": 263.6105672064,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-05-01",
+          "original": 262.7842017919,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-06-01",
+          "original": 256.9996438908,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-07-01",
+          "original": 281.790606324,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-08-01",
+          "original": 279.3115100807,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-09-01",
+          "original": 266.9160288641,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-10-01",
+          "original": 285.0960679818,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-11-01",
+          "original": 299.1442800273,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1991-12-01",
+          "original": 310.7133958294,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-01-01",
+          "original": 316.4979537305,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-02-01",
+          "original": 315.6715883161,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-03-01",
+          "original": 327.2407041182,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-04-01",
+          "original": 333.0252620193,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-05-01",
+          "original": 323.9352424605,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-06-01",
+          "original": 333.8516274338,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-07-01",
+          "original": 315.6715883161,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-08-01",
+          "original": 315.6715883161,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-09-01",
+          "original": 323.3154683996,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-10-01",
+          "original": 326.4143387038,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-11-01",
+          "original": 341.2889161637,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1992-12-01",
+          "original": 331.3725311904,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-01-01",
+          "original": 338.8098199204,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-02-01",
+          "original": 351.205301137,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-03-01",
+          "original": 337.1570890915,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-04-01",
+          "original": 323.9352424605,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-05-01",
+          "original": 305.7552033428,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-06-01",
+          "original": 294.1860875406,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-07-01",
+          "original": 299.1442800273,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-08-01",
+          "original": 294.1860875406,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-09-01",
+          "original": 290.8806258829,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-10-01",
+          "original": 275.1796830085,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-11-01",
+          "original": 297.698140552,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1993-12-01",
+          "original": 337.5702717987,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-01-01",
+          "original": 334.6779928482,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-02-01",
+          "original": 319.8034153883,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-03-01",
+          "original": 326.4143387038,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-04-01",
+          "original": 358.642589867,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-05-01",
+          "original": 403.2663222467,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-06-01",
+          "original": 419.7936305355,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-07-01",
+          "original": 419.7936305355,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-08-01",
+          "original": 472.5157338893,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-09-01",
+          "original": 507.3883644661,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-10-01",
+          "original": 510.6938261239,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-11-01",
+          "original": 584.2403480091,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1994-12-01",
+          "original": 590.0249059101,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-01-01",
+          "original": 541.2693464582,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-02-01",
+          "original": 546.2275389448,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-03-01",
+          "original": 567.7130397203,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-04-01",
+          "original": 511.3882163035,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-05-01",
+          "original": 491.1353410887,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-06-01",
+          "original": 521.9928738174,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-07-01",
+          "original": 563.4084599053,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-08-01",
+          "original": 540.4078671611,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-09-01",
+          "original": 524.8227515335,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-10-01",
+          "original": 553.6155760041,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-11-01",
+          "original": 549.5462436869,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1995-12-01",
+          "original": 539.9408284024,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-01-01",
+          "original": 482.3031395759,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-02-01",
+          "original": 483.4170854271,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-03-01",
+          "original": 462.9829254859,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-04-01",
+          "original": 494.9229482738,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-05-01",
+          "original": 503.0683459008,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-06-01",
+          "original": 446.5787997757,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-07-01",
+          "original": 418.1365661756,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-08-01",
+          "original": 449.5868431608,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-09-01",
+          "original": 468.6850103983,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-10-01",
+          "original": 448.4124451536,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-11-01",
+          "original": 466.7724028549,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1996-12-01",
+          "original": 480.9616222425,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-01-01",
+          "original": 522.6749086822,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-02-01",
+          "original": 532.2623451826,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-03-01",
+          "original": 508.0106593451,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-04-01",
+          "original": 509.4701510429,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-05-01",
+          "original": 508.5707445535,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-06-01",
+          "original": 471.6482555829,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-07-01",
+          "original": 445.025406307,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-08-01",
+          "original": 444.5451578986,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-09-01",
+          "original": 460.6278115904,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-10-01",
+          "original": 490.5411163187,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-11-01",
+          "original": 493.0935549706,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1997-12-01",
+          "original": 498.6683962514,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-01-01",
+          "original": 548.6314347677,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-02-01",
+          "original": 595.7743166257,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-03-01",
+          "original": 599.8660630575,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-04-01",
+          "original": 628.8826950393,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-05-01",
+          "original": 643.7237063525,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-06-01",
+          "original": 583.2379762648,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-07-01",
+          "original": 583.5867867868,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-08-01",
+          "original": 589.8981243454,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-09-01",
+          "original": 626.8428518888,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-10-01",
+          "original": 613.456172677,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-11-01",
+          "original": 616.5254237288,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1998-12-01",
+          "original": 579.7368421053,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-01-01",
+          "original": 560.5605263158,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-02-01",
+          "original": 484.7180188952,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-03-01",
+          "original": 428.7684210526,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-04-01",
+          "original": 439.7363019106,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-05-01",
+          "original": 398.4578947368,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-06-01",
+          "original": 330.7850206584,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-07-01",
+          "original": 279.5815789474,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-08-01",
+          "original": 308.2710526316,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-09-01",
+          "original": 342.4044636278,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-10-01",
+          "original": 326.0737972418,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-11-01",
+          "original": 315.9688412853,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "1999-12-01",
+          "original": 311.9983156565,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-01-01",
+          "original": 301.789567872,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-02-01",
+          "original": 277.5798089323,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-03-01",
+          "original": 294.389030713,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-04-01",
+          "original": 318.140905861,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-05-01",
+          "original": 283.1670921389,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-06-01",
+          "original": 272.2339193599,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-07-01",
+          "original": 266.5438467207,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-08-01",
+          "original": 257.1492486249,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-09-01",
+          "original": 239.7868421053,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-10-01",
+          "original": 208.4578947368,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-11-01",
+          "original": 215.3056659386,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2000-12-01",
+          "original": 199.1789473684,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-01-01",
+          "original": 191.7888254336,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-02-01",
+          "original": 185.0650034212,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-03-01",
+          "original": 210.9002868497,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-04-01",
+          "original": 208.9638655683,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-05-01",
+          "original": 194.0105263158,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-06-01",
+          "original": 209.165548275,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-07-01",
+          "original": 279.6289473684,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-08-01",
+          "original": 312.6184210526,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-09-01",
+          "original": 259.555766093,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-10-01",
+          "original": 232.0947368421,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-11-01",
+          "original": 281.5131578947,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2001-12-01",
+          "original": 295.4711718113,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-01-01",
+          "original": 310.3,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-02-01",
+          "original": 296.7685060919,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-03-01",
+          "original": 302.4473684211,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-04-01",
+          "original": 311.1476617806,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-05-01",
+          "original": 337.8184210526,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-06-01",
+          "original": 376.0,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-07-01",
+          "original": 369.2105263158,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-08-01",
+          "original": 391.5078947368,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-09-01",
+          "original": 369.3973684211,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-10-01",
+          "original": 372.8026315789,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-11-01",
+          "original": 409.9736842105,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2002-12-01",
+          "original": 433.5561462144,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-01-01",
+          "original": 431.3157894737,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-02-01",
+          "original": 421.5170278638,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-03-01",
+          "original": 390.1315789474,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-04-01",
+          "original": 377.2009569378,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-05-01",
+          "original": 382.1191135734,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-06-01",
+          "original": 390.4385964912,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-07-01",
+          "original": 382.8260869565,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-08-01",
+          "original": 361.9423558897,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-09-01",
+          "original": 374.8746867168,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-10-01",
+          "original": 449.019138756,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-11-01",
+          "original": 484.6284829721,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2003-12-01",
+          "original": 478.4688995215,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-01-01",
+          "original": 467.6900584795,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-02-01",
+          "original": 501.6099071207,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-03-01",
+          "original": 520.5720823799,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-04-01",
+          "original": 516.3397129187,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-05-01",
+          "original": 481.135734072,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-06-01",
+          "original": 408.9832535885,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-07-01",
+          "original": 386.6267942584,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-08-01",
+          "original": 393.709273183,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-09-01",
+          "original": 401.6387559809,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-10-01",
+          "original": 381.6040100251,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-11-01",
+          "original": 386.6666666667,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2004-12-01",
+          "original": 370.0915331808,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-01-01",
+          "original": 346.6315789474,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-02-01",
+          "original": 347.5657894737,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-03-01",
+          "original": 374.828375286,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-04-01",
+          "original": 375.8421052632,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-05-01",
+          "original": 370.1578947368,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-06-01",
+          "original": 369.6411483254,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-07-01",
+          "original": 369.6016011992,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-08-01",
+          "original": 360.2767733435,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-09-01",
+          "original": 369.9845158913,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-10-01",
+          "original": 382.8173632537,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-11-01",
+          "original": 375.9659159057,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2005-12-01",
+          "original": 368.9038852567,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-01-01",
+          "original": 377.9190611334,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-02-01",
+          "original": 390.6334305471,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-03-01",
+          "original": 383.3578397844,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-04-01",
+          "original": 386.4132877062,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-05-01",
+          "original": 394.5198235429,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-06-01",
+          "original": 386.1821907455,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-07-01",
+          "original": 404.0242884114,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-08-01",
+          "original": 434.4805336071,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-09-01",
+          "original": 416.9375440369,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-10-01",
+          "original": 422.3209125286,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-11-01",
+          "original": 476.7430364897,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2006-12-01",
+          "original": 528.3878484895,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-01-01",
+          "original": 550.7845038192,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-02-01",
+          "original": 553.7525094425,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-03-01",
+          "original": 566.388111257,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-04-01",
+          "original": 645.3904819046,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-05-01",
+          "original": 740.6147636389,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-06-01",
+          "original": 748.5062518397,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-07-01",
+          "original": 764.4703155067,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-08-01",
+          "original": 729.5644573243,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-09-01",
+          "original": 745.1799848691,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-10-01",
+          "original": 824.0689608323,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-11-01",
+          "original": 877.6128717477,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2007-12-01",
+          "original": 883.4477564972,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-01-01",
+          "original": 987.0202155708,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-02-01",
+          "original": 1109.4976702408,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-03-01",
+          "original": 1146.8589805292,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-04-01",
+          "original": 1083.4897064484,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-05-01",
+          "original": 1086.8331620925,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-06-01",
+          "original": 1096.3874456542,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-07-01",
+          "original": 1026.245487261,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-08-01",
+          "original": 791.7694164496,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-09-01",
+          "original": 667.0434916071,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-10-01",
+          "original": 486.3955631086,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-11-01",
+          "original": 433.138274613,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2008-12-01",
+          "original": 442.6633722723,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-01-01",
+          "original": 522.002930192,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-02-01",
+          "original": 528.7134984647,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-03-01",
+          "original": 557.2877710597,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-04-01",
+          "original": 693.2124011007,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-05-01",
+          "original": 772.3850486878,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-06-01",
+          "original": 690.8184179682,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-07-01",
+          "original": 601.9501454454,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-08-01",
+          "original": 686.7902835949,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-09-01",
+          "original": 636.4198637478,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-10-01",
+          "original": 636.5577849028,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-11-01",
+          "original": 674.329955307,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2009-12-01",
+          "original": 727.5986644,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-01-01",
+          "original": 742.0038659582,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-02-01",
+          "original": 754.3185109877,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-03-01",
+          "original": 793.9011393829,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-04-01",
+          "original": 798.5332498058,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-05-01",
+          "original": 775.5662416722,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-06-01",
+          "original": 764.9093330229,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-07-01",
+          "original": 774.5011694272,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-08-01",
+          "original": 865.2293308717,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-09-01",
+          "original": 884.8930429195,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-10-01",
+          "original": 935.2176596614,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-11-01",
+          "original": 1059.009822461,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2010-12-01",
+          "original": 1171.2159282581,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-01-01",
+          "original": 1238.5718220704,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-02-01",
+          "original": 1248.5526117409,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-03-01",
+          "original": 1142.231241952,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-04-01",
+          "original": 1123.7868441585,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-05-01",
+          "original": 1143.4362372832,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-06-01",
+          "original": 1075.9084245374,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-07-01",
+          "original": 1033.5723153396,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-08-01",
+          "original": 1047.5116915019,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-09-01",
+          "original": 995.1788159366,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-10-01",
+          "original": 914.4374160297,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-11-01",
+          "original": 985.7664746254,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2011-12-01",
+          "original": 969.0725238496,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-01-01",
+          "original": 1020.5356397281,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-02-01",
+          "original": 1047.6884915007,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-03-01",
+          "original": 1105.7418694084,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-04-01",
+          "original": 1157.4485227702,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-05-01",
+          "original": 1031.1243785162,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-06-01",
+          "original": 927.6276422504,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-07-01",
+          "original": 952.5391386571,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-08-01",
+          "original": 930.6144363408,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-09-01",
+          "original": 879.5339801383,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-10-01",
+          "original": 768.0906416017,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-11-01",
+          "original": 743.1297750312,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2012-12-01",
+          "original": 713.9361223295,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-01-01",
+          "original": 776.540602794,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-02-01",
+          "original": 792.3802546702,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-03-01",
+          "original": 771.8709016963,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-04-01",
+          "original": 756.4612989887,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-05-01",
+          "original": 763.3814613147,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-06-01",
+          "original": 763.0436038452,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-07-01",
+          "original": 729.85747727,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-08-01",
+          "original": 722.8353239789,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-09-01",
+          "original": 725.79697727,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-10-01",
+          "original": 762.6208795089,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-11-01",
+          "original": 810.3006685091,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2013-12-01",
+          "original": 795.274809615,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-01-01",
+          "original": 769.3372827754,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-02-01",
+          "original": 811.2046681174,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-03-01",
+          "original": 860.5186817351,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-04-01",
+          "original": 825.3249716571,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-05-01",
+          "original": 800.2873392836,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-06-01",
+          "original": 758.4719355506,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-07-01",
+          "original": 752.8851936733,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-08-01",
+          "original": 677.8621610654,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-09-01",
+          "original": 656.9830816545,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-10-01",
+          "original": 673.0865557084,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-11-01",
+          "original": 662.4029702376,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2014-12-01",
+          "original": 624.5354962116,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-01-01",
+          "original": 641.5972331692,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-02-01",
+          "original": 634.3781251816,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-03-01",
+          "original": 607.6548653406,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-04-01",
+          "original": 591.7879204736,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-05-01",
+          "original": 601.3965401992,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-06-01",
+          "original": 606.4044884746,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-07-01",
+          "original": 575.6821296412,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-08-01",
+          "original": 484.6775913205,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-09-01",
+          "original": 483.4873076508,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-10-01",
+          "original": 530.2466397897,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-11-01",
+          "original": 503.1636200122,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2015-12-01",
+          "original": 520.6025676057,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-01-01",
+          "original": 531.6194425726,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-02-01",
+          "original": 595.9006832269,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-03-01",
+          "original": 633.0677827637,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-04-01",
+          "original": 680.3754867492,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-05-01",
+          "original": 644.564789449,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-06-01",
+          "original": 618.4530341287,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-07-01",
+          "original": 584.190132905,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-08-01",
+          "original": 664.3771196261,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-09-01",
+          "original": 692.4066584407,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-10-01",
+          "original": 651.448642642,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-11-01",
+          "original": 669.9975882329,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2016-12-01",
+          "original": 711.7562365517,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-01-01",
+          "original": 726.4885559943,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-02-01",
+          "original": 706.7935956465,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-03-01",
+          "original": 663.2995193826,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-04-01",
+          "original": 623.207664785,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-05-01",
+          "original": 655.5106163053,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-06-01",
+          "original": 621.1815869391,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-07-01",
+          "original": 617.1582208353,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-08-01",
+          "original": 621.81946568,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-09-01",
+          "original": 661.631565158,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-10-01",
+          "original": 648.1616635441,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-11-01",
+          "original": 635.5638065006,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2017-12-01",
+          "original": 592.7977964399,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-01-01",
+          "original": 633.3475011559,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-02-01",
+          "original": 642.9437110131,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-03-01",
+          "original": 624.308918836,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-04-01",
+          "original": 618.0008616769,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-05-01",
+          "original": 606.0216419108,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-06-01",
+          "original": 582.8979904985,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-07-01",
+          "original": 538.2081657341,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-08-01",
+          "original": 534.3528747097,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-09-01",
+          "original": 524.8531116927,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-10-01",
+          "original": 506.8560416947,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-11-01",
+          "original": 444.0798332748,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2018-12-01",
+          "original": 462.438918474,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-01-01",
+          "original": 519.152943138,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-02-01",
+          "original": 522.2878986431,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-03-01",
+          "original": 492.6794397882,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-04-01",
+          "original": 503.2851124315,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-05-01",
+          "original": 472.0977585557,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-06-01",
+          "original": 474.6270713857,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-07-01",
+          "original": 466.2145961096,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-08-01",
+          "original": 508.6088928097,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-09-01",
+          "original": 506.8563154538,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-10-01",
+          "original": 523.5201317724,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-11-01",
+          "original": 612.8027780882,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2019-12-01",
+          "original": 685.2834047175,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-01-01",
+          "original": 726.5856019038,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-02-01",
+          "original": 642.2521558572,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-03-01",
+          "original": 557.9028370406,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-04-01",
+          "original": 518.4741550885,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-05-01",
+          "original": 498.4821647684,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-06-01",
+          "original": 573.223586531,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-07-01",
+          "original": 610.4955975339,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-08-01",
+          "original": 674.6994388652,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-09-01",
+          "original": 707.3252812562,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-10-01",
+          "original": 730.9498228269,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-11-01",
+          "original": 841.6396843757,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2020-12-01",
+          "original": 910.6483996163,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-01-01",
+          "original": 936.4496533698,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-02-01",
+          "original": 968.868406413,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-03-01",
+          "original": 995.801045241,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-04-01",
+          "original": 1036.2934117965,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-05-01",
+          "original": 1104.5849329269,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-06-01",
+          "original": 920.9626479348,
+          "forecast": null,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-07-01",
+          "original": 1010.2238539313,
+          "forecast": 1010.2238539313,
+          "65_lower": null,
+          "65_upper": null
+        },
+        {
+          "date": "2021-09-01",
+          "original": null,
+          "forecast": 74.04,
+          "65_lower": 67.64,
+          "65_upper": 75.15
+        },
+        {
+          "date": "2021-10-01",
+          "original": null,
+          "forecast": 78.63,
+          "65_lower": 74.04,
+          "65_upper": 79.81
+        },
+        {
+          "date": "2021-11-01",
+          "original": null,
+          "forecast": 73.75,
+          "65_lower": 72.64,
+          "65_upper": 78.63
+        },
+        {
+          "date": "2021-12-01",
+          "original": null,
+          "forecast": 72.62,
+          "65_lower": 71.53,
+          "65_upper": 73.75
+        },
+        {
+          "date": "2022-01-01",
+          "original": null,
+          "forecast": 77.12,
+          "65_lower": 72.62,
+          "65_upper": 78.28
+        },
+        {
+          "date": "2022-02-01",
+          "original": null,
+          "forecast": 81.9,
+          "65_lower": 77.12,
+          "65_upper": 83.13
+        },
+        {
+          "date": "2022-03-01",
+          "original": null,
+          "forecast": 83.31,
+          "65_lower": 81.9,
+          "65_upper": 84.56
+        },
+        {
+          "date": "2022-04-01",
+          "original": null,
+          "forecast": 88.48,
+          "65_lower": 83.31,
+          "65_upper": 89.81
+        },
+        {
+          "date": "2022-05-01",
+          "original": null,
+          "forecast": 93.97,
+          "65_lower": 88.48,
+          "65_upper": 95.38
+        },
+        {
+          "date": "2022-06-01",
+          "original": null,
+          "forecast": 99.8,
+          "65_lower": 93.97,
+          "65_upper": 101.3
+        },
+        {
+          "date": "2022-07-01",
+          "original": null,
+          "forecast": 105.99,
+          "65_lower": 99.8,
+          "65_upper": 107.58
+        },
+        {
+          "date": "2022-08-01",
+          "original": null,
+          "forecast": 99.42,
+          "65_lower": 97.93,
+          "65_upper": 105.99
+        },
+        {
+          "date": "2022-09-01",
+          "original": null,
+          "forecast": 93.26,
+          "65_lower": 91.86,
+          "65_upper": 99.42
+        },
+        {
+          "date": "2022-10-01",
+          "original": null,
+          "forecast": 99.04,
+          "65_lower": 93.26,
+          "65_upper": 100.53
+        },
+        {
+          "date": "2022-11-01",
+          "original": null,
+          "forecast": 100.84,
+          "65_lower": 99.04,
+          "65_upper": 102.35
+        },
+        {
+          "date": "2022-12-01",
+          "original": null,
+          "forecast": 107.09,
+          "65_lower": 100.84,
+          "65_upper": 108.7
+        },
+        {
+          "date": "2023-01-01",
+          "original": null,
+          "forecast": 113.73,
+          "65_lower": 107.09,
+          "65_upper": 115.44
+        },
+        {
+          "date": "2023-02-01",
+          "original": null,
+          "forecast": 106.68,
+          "65_lower": 105.08,
+          "65_upper": 113.73
+        },
+        {
+          "date": "2023-03-01",
+          "original": null,
+          "forecast": 100.07,
+          "65_lower": 98.57,
+          "65_upper": 106.68
+        },
+        {
+          "date": "2023-04-01",
+          "original": null,
+          "forecast": 93.87,
+          "65_lower": 92.46,
+          "65_upper": 100.07
+        },
+        {
+          "date": "2023-05-01",
+          "original": null,
+          "forecast": 88.05,
+          "65_lower": 86.73,
+          "65_upper": 93.87
+        },
+        {
+          "date": "2023-06-01",
+          "original": null,
+          "forecast": 93.51,
+          "65_lower": 88.05,
+          "65_upper": 94.91
+        },
+        {
+          "date": "2023-07-01",
+          "original": null,
+          "forecast": 95.22,
+          "65_lower": 93.51,
+          "65_upper": 96.65
+        },
+        {
+          "date": "2023-08-01",
+          "original": null,
+          "forecast": 95.41,
+          "65_lower": 93.98,
+          "65_upper": 96.84
+        },
+        {
+          "date": "2023-09-01",
+          "original": null,
+          "forecast": 93.52,
+          "65_lower": 92.12,
+          "65_upper": 95.41
+        },
+        {
+          "date": "2023-10-01",
+          "original": null,
+          "forecast": 94.67,
+          "65_lower": 93.25,
+          "65_upper": 96.09
+        },
+        {
+          "date": "2023-11-01",
+          "original": null,
+          "forecast": 88.8,
+          "65_lower": 87.47,
+          "65_upper": 94.67
+        },
+        {
+          "date": "2023-12-01",
+          "original": null,
+          "forecast": 94.31,
+          "65_lower": 88.8,
+          "65_upper": 95.72
+        },
+        {
+          "date": "2024-01-01",
+          "original": null,
+          "forecast": 88.46,
+          "65_lower": 87.13,
+          "65_upper": 94.31
+        },
+        {
+          "date": "2024-02-01",
+          "original": null,
+          "forecast": 93.52,
+          "65_lower": 88.46,
+          "65_upper": 94.92
+        },
+        {
+          "date": "2024-03-01",
+          "original": null,
+          "forecast": 99.32,
+          "65_lower": 93.52,
+          "65_upper": 100.81
+        },
+        {
+          "date": "2024-04-01",
+          "original": null,
+          "forecast": 100.0,
+          "65_lower": 98.5,
+          "65_upper": 101.5
+        },
+        {
+          "date": "2024-05-01",
+          "original": null,
+          "forecast": 106.2,
+          "65_lower": 100.0,
+          "65_upper": 107.79
+        },
+        {
+          "date": "2024-06-01",
+          "original": null,
+          "forecast": 99.62,
+          "65_lower": 98.13,
+          "65_upper": 106.2
+        },
+        {
+          "date": "2024-07-01",
+          "original": null,
+          "forecast": 93.44,
+          "65_lower": 92.04,
+          "65_upper": 99.62
+        },
+        {
+          "date": "2024-08-01",
+          "original": null,
+          "forecast": 87.65,
+          "65_lower": 86.34,
+          "65_upper": 93.44
+        },
+        {
+          "date": "2024-09-01",
+          "original": null,
+          "forecast": 93.08,
+          "65_lower": 87.65,
+          "65_upper": 94.48
+        },
+        {
+          "date": "2024-10-01",
+          "original": null,
+          "forecast": 88.41,
+          "65_lower": 87.08,
+          "65_upper": 93.08
+        },
+        {
+          "date": "2024-11-01",
+          "original": null,
+          "forecast": 93.89,
+          "65_lower": 88.41,
+          "65_upper": 95.3
+        },
+        {
+          "date": "2024-12-01",
+          "original": null,
+          "forecast": 97.1,
+          "65_lower": 93.89,
+          "65_upper": 98.56
+        },
+        {
+          "date": "2025-01-01",
+          "original": null,
+          "forecast": 103.12,
+          "65_lower": 97.1,
+          "65_upper": 104.67
+        },
+        {
+          "date": "2025-02-01",
+          "original": null,
+          "forecast": 96.73,
+          "65_lower": 95.28,
+          "65_upper": 103.12
+        },
+        {
+          "date": "2025-03-01",
+          "original": null,
+          "forecast": 102.73,
+          "65_lower": 96.73,
+          "65_upper": 104.27
+        },
+        {
+          "date": "2025-04-01",
+          "original": null,
+          "forecast": 106.77,
+          "65_lower": 102.73,
+          "65_upper": 108.37
+        },
+        {
+          "date": "2025-05-01",
+          "original": null,
+          "forecast": 113.39,
+          "65_lower": 106.77,
+          "65_upper": 115.09
+        },
+        {
+          "date": "2025-06-01",
+          "original": null,
+          "forecast": 119.21,
+          "65_lower": 113.39,
+          "65_upper": 121.0
+        },
+        {
+          "date": "2025-07-01",
+          "original": null,
+          "forecast": 126.6,
+          "65_lower": 119.21,
+          "65_upper": 128.5
+        },
+        {
+          "date": "2025-08-01",
+          "original": null,
+          "forecast": 122.84,
+          "65_lower": 121.0,
+          "65_upper": 126.6
+        },
+        {
+          "date": "2025-09-01",
+          "original": null,
+          "forecast": 129.39,
+          "65_lower": 122.84,
+          "65_upper": 131.33
+        },
+        {
+          "date": "2025-10-01",
+          "original": null,
+          "forecast": 125.2,
+          "65_lower": 123.32,
+          "65_upper": 129.39
+        }
+      ]
+    
+}

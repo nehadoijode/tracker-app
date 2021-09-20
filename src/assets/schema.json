@@ -1,0 +1,39 @@
+{
+"schema": {
+    "fields": [
+      {
+        "name": "date",
+        "display_name":"Historical data",
+        "type": "datetime",
+        "line_type": ""
+      },
+      {
+        "name": "original",
+        "display_name": "Historical data",
+        "type": "number",
+        "line_type": "SOLID"
+      },
+      {
+        "name": "forecast",
+        "display_name": "Forecasted Data",
+        "type": "number",
+        "line_type": "DASHED"
+      },
+      {
+        "name": "65_lower",
+        "display_name": "65_lower",
+        "type": "number",
+        "line_type": "DASHED"
+      },
+      {
+        "name": "65_upper",
+        "display_name": "65_upper",
+        "type": "number",
+        "line_type": "DASHED"
+      }
+    ],
+    "primaryKey": [
+      "date"
+    ]
+}
+}
