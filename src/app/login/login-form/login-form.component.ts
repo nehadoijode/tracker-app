@@ -52,7 +52,7 @@ export class LoginFormComponent implements OnInit {
     var jsonify = (res:any) => res.json();
     
     var dataFetch = fetch(
-     "/assets/assets/fulldata.json"
+     "/assets/data.json"
       // "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/data/plotting-multiple-series-on-time-axis-data.json"
     // "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/data/dashed-reference-line-data.json"
      // "https://s3.eu-central-1.amazonaws.com/fusion.store/ft/data/line-chart-with-time-axis-data.json"
@@ -81,47 +81,47 @@ export class LoginFormComponent implements OnInit {
       //    resultSchema.push(obj2[j]);
       //    console.log(resultSchema, "resultSchema")
 
-        //  function jsonArrayTo2D(data1:any, data2:any){
-        //   let header:any[] = [];
-        //   let AoA:any[] = [];
-        //   let AoS:any[] = [];
+         function jsonArrayTo2D(data1:any, data2:any){
+          let header:any[] = [];
+          let AoA:any[] = [];
+          let AoS:any[] = [];
                   
-        //   data1.forEach((obj:any) => {
-        //     Object.keys(obj).forEach(key => header.includes(key) || header.push(key))
-        //     let thisRow = new Array(header.length);
-        //     header.forEach((col, i) => thisRow[i] = obj[col] || '')
-        //     AoA.push(thisRow);            
-        //   })
-        //     // var string2 = JSON.stringify(schema.schema.fields)                
-        //     // var obj2 = JSON.parse(string2);      
-        //      var resultSchema:any = [];
-        //      var obj2 = schema.schema.fields;
-        //      for(var j in schema.schema.fields)
-        //      resultSchema.push(obj2[j]);
-        //       console.log(resultSchema, 'resultSchema')
-        //       let schemaArrayNew:any[] = [];  
-        //      resultSchema.forEach((obj:any)=> {       
-        //      Object.keys(obj).forEach((key) => schemaArrayNew.includes(key) || schemaArrayNew.push(obj[key]))
-        //     // let thisCol = new Array(schemaArrayNew.length);            
-        //    // console.log(thisCol)
+          data1.forEach((obj:any) => {
+            Object.keys(obj).forEach(key => header.includes(key) || header.push(key))
+            let thisRow = new Array(header.length);
+            header.forEach((col, i) => thisRow[i] = obj[col] || '')
+            AoA.push(thisRow);            
+          })
+            // var string2 = JSON.stringify(schema.schema.fields)                
+            // var obj2 = JSON.parse(string2);      
+             var resultSchema:any = [];
+             var obj2 = schema;
+             for(var j in obj2)
+             resultSchema.push(obj2[j]);
+              console.log(resultSchema, 'resultSchema')
+              let schemaArrayNew:any[] = [];  
+             resultSchema.forEach((obj:any)=> {       
+             Object.keys(obj).forEach((key) => schemaArrayNew.includes(key) || schemaArrayNew.push(obj[key]))
+            // let thisCol = new Array(schemaArrayNew.length);            
+           // console.log(thisCol)
             
-        //    // schemaArrayNew.forEach((col, i) => thisCol[i] = obj[col] || '')            
-        //     AoS.push(schemaArrayNew)
-        //   })          
+           // schemaArrayNew.forEach((col, i) => thisCol[i] = obj[col] || '')            
+            AoS.push(schemaArrayNew)
+          })          
              
-        //  let result:any = {AoA, AoS} 
-        //  return result; 
-        // }
+         let result:any = {AoA, AoS} 
+         return result; 
+        }
 
-        // var dataArray = jsonArrayTo2D(data.data, schema.schema.fields).AoA;
-        // var schemaArray = jsonArrayTo2D(data.data, schema.schema.fields).AoS;  
-        // console.log(dataArray, "AoA"); 
-        // console.log(schemaArray, "AoS") 
+        var dataArray = jsonArrayTo2D(data.data, schema).AoA;
+     //   var schemaArray = jsonArrayTo2D(data.data, schema.schema.fields).AoS;  
+        console.log(dataArray, "AoA"); 
+    //    console.log(schemaArray, "AoS") 
        
       // First we are creating a DataStore
       const fusionDataStore = new FusionCharts.DataStore();
       // After that we are creating a DataTable by passing our data and schema as arguments
-      const fusionTable = fusionDataStore.createDataTable(data, schema);
+      const fusionTable = fusionDataStore.createDataTable(dataArray, schema);
     //   const fusionTable = fusionDataStore.createDataTable(resultData, resultSchema);
       // Afet that we simply mutated our timeseries datasource by attaching the above
       // DataTable into its data property.
