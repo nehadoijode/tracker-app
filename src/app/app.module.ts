@@ -42,7 +42,7 @@ FusionChartsModule.fcRoot(FusionCharts, charts, FusionTheme);
     BrowserAnimationsModule,
     HttpClientModule,
     RouterModule.forRoot([
-      { path: '', redirectTo: '/', pathMatch: 'full' },
+     // { path: '', redirectTo: '/', pathMatch: 'full' },
      // { path: 'register', component: RegistrationComponent },
       { path: 'login', component: LoginFormComponent },
     ])
